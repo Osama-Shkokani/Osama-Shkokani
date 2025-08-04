@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey there! I'm Osama Shukokani</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey there! I'm Osama Shkokani</h1>
 
 <p>A Data Science & Artificial Intelligence student from Jordan 🇯🇴, passionate about building smart solutions using modern technologies and programming languages.</p>
 
