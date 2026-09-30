@@ -45,7 +45,7 @@
   </a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/osama-shkokani-860180353
 
-" target="_blank">
+     " target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
