@@ -43,7 +43,9 @@
   <a href="https://github.com/Osama-Shkokani" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/osama-shkokani-860180353
+
+" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
